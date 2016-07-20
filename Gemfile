@@ -54,3 +54,6 @@ group :production do
   # Use PostgreSQL as the database for Active Record
   gem 'pg'
 end
+
+# Ruby version
+ruby "2.3.1"
